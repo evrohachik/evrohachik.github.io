@@ -5,17 +5,8 @@ title: Home
 {% include header.html %}
 
 # Research
+### Router admin panel in Turkish hotel using only iPad
+### Hacked first Wi-Fi at 18 (and more later)
+### Gained access to two online bank accounts via misconfiguration
 
-This section contains research notes, methodologies, and observations from independent OSINT and cybersecurity investigations.
 
-### OSINT Patterns
-Exploring how digital footprints connect across platforms and services.
-
-*Future content: case observations, patterns discovered, conceptual frameworks.*
-
----
-
-### Investigative Techniques
-Notes on research techniques that support digital investigation and analytic thinking.
-
-*Future content: techniques, examples, comparisons.*
