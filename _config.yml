@@ -1,6 +1,29 @@
-title: Alex Cheverdak
-description: "Cybersecurity & OSINT Portfolio"
-baseurl: ""
-url: "https://evrohachik.github.io"
-theme: jekyll-theme-minima
-author: Alex Cheverdak
+title: Cybersecurity Portfolio
+description: My projects, research, and notes in cybersecurity & OSINT
+baseurl: "" 
+url: "https://yourusername.github.io" # replace with your GitHub Pages URL
+
+remote_theme: riggraz/no-style-please
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+
+# Theme options
+author: Your Name
+logo: ""
+light_logo: ""
+dark_logo: ""
+social:
+  github: yourusername
+  linkedin: yourlinkedin
+
+# Menu
+menu:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /projects/
+  - title: Research
+    url: /research/
+  - title: Notes
+    url: /notes/
