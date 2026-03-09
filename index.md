@@ -23,12 +23,6 @@ I am a cybersecurity researcher focused on **OSINT and digital investigation**, 
 - Gained access to **two online bank accounts** via misconfigurations  
 - Accessed a **router admin panel in a Turkish hotel using only an iPad**  
 
----
-
-## Featured Research
-
-- **Part 0 – The Industrialization of Account Takeover**  
-  Early exploration of account compromise patterns, risk vectors, and mitigation approaches.  
 
 ---
 
