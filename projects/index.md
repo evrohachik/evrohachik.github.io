@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Projects
+title: Home
 ---
+{% include header.html %}
 
 # Projects
 
