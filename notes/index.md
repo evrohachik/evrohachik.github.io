@@ -9,9 +9,7 @@ title: Home
 Quick notes, references, and ideas related to cybersecurity and investigation.
 
 ### Reference Links
-- 🔗 Tool collections
-- 🔗 Learning resources
-- 🔗 OSINT / research guides
+
 
 ---
 
