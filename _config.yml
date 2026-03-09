@@ -3,7 +3,7 @@ description: My projects, research, and notes in cybersecurity & OSINT
 baseurl: "" 
 url: "https://yourusername.github.io" # replace with your GitHub Pages URL
 
-remote_theme: riggraz/no-style-please
+remote_theme: aleslinux/al-folio
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
