@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Notes
+title: Home
 ---
+{% include header.html %}
 
 # Notes
 
