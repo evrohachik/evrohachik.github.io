@@ -6,23 +6,13 @@ title: Home
 
 # Projects
 
-Below are examples of my work in cybersecurity, OSINT, and investigative research.
-
-### OSINT Investigation Workflow
-A structured investigation process for discovering patterns and connections using open-source methods.
-
-*Future content: examples, diagrams, and step-by-step workflows.*
+### Part 0 - The Industrialization of Account Takeover
+https://medium.com/@evrohachik/account-takeover-is-not-just-a-cyber-problem-its-a-structural-economic-one-6155d26e9b90
 
 ---
 
-### Hack The Box Lab Notes
-Summaries and insights from hands-on labs at Hack The Box.
+### Hack The Box Lab Walkthrough 
 
-*Future content: lab write-ups, techniques, lessons learned.*
 
 ---
 
-### Tool & Method Maps
-Visual or descriptive maps outlining tools and investigation approaches.
-
-*Future content: tool ecosystems, use cases, annotations.*
