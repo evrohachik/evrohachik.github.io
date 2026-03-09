@@ -1,6 +1,6 @@
 title: Alex Cheverdak
 description: "Cybersecurity & OSINT Portfolio"
-baseurl: "" # leave empty if using yourusername.github.io
-url: "https://yourusername.github.io"
-theme: "cayman"
-author: "Alex Cheverdak"
+baseurl: ""
+url: "https://evrohachik.github.io"
+theme: jekyll-theme-minima
+author: Alex Cheverdak
