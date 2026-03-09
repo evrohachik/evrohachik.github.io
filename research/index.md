@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Research
+title: Home
 ---
+{% include header.html %}
 
 # Research
 
