@@ -1,23 +1,22 @@
 title: Cybersecurity Portfolio
 description: My projects, research, and notes in cybersecurity & OSINT
-baseurl: "" 
-url: "https://yourusername.github.io" # replace with your GitHub Pages URL
+baseurl: ""
+url: "https://yourusername.github.io"
+
+author:
+  name: Your Name
+  email: your.email@example.com
+  github: yourusername
+  linkedin: yourlinkedin
+
+theme_mode: auto    # light, dark, auto
+show_year: true
 
 remote_theme: aleslinux/al-folio
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 
-# Theme options
-author: Your Name
-logo: ""
-light_logo: ""
-dark_logo: ""
-social:
-  github: yourusername
-  linkedin: yourlinkedin
-
-# Menu
+# Optional: Customize navigation
 menu:
   - title: Home
     url: /
