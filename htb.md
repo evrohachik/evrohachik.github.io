@@ -8,7 +8,7 @@ title: Home
 # Hack The Box Video Walkthrough 
 ## Retired machines
 ### [HTB Beep](https://archive.org/details/hack-the-box-htb-beep-quick-walkthrough-with-subt)
-### [HTB Cozyhosting]()
+### [HTB Cozyhosting](https://archive.org/details/hack-the-box-htb-cozyhosting-quick-walkthrough-wi)
 ### [HTB Manager]()
 ### [HTB Precious]()
 ### [HTB Sau]()
