@@ -20,8 +20,8 @@ I am a cybersecurity researcher focused on **OSINT and digital investigation**, 
 
 - [Built my first **LAN cables at 14**](/projects/lan.md)  
 - [Hacked my first Wi-Fi at 18, and more later](/research/wifi.md) 
-- Gained access to **two online bank accounts** via misconfigurations  
-- Accessed a **router admin panel in a Turkish hotel using only an iPad**  
+- [Gained access to **two online bank accounts** via misconfigurations](/research/bank.md)  
+- [Accessed a **router admin panel in a Turkish hotel using only an iPad**](/research/ipad.md)  
 
 
 ---
