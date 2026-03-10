@@ -2,6 +2,7 @@
 layout: default
 title: Building a 60m LAN Between Two Blocks (2002)
 ---
+{% include header.html %}
 
 # Building a 60m LAN Between Two Blocks (2002)
 
