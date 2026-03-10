@@ -25,7 +25,7 @@ The distance between our apartments was roughly **60 meters**.
 
 To make it work we bought:
 
-- a **TCP/IP book for beginners**(../images/674dfdfc443d9c5fb868c7ba_9780470450604.jpeg)
+- a [**TCP/IP book for beginners**](../images/674dfdfc443d9c5fb868c7ba_9780470450604.jpeg)
 - **60 meters of Ethernet cable**
 - **2 network cards**
 
