@@ -6,13 +6,15 @@ title: Home
 {% include header.html %}
 
 # Hack The Box Video Walkthrough 
-## Retired machines and challenges
+## Retired machines
 ### [HTB Beep]()
 ### [HTB Cozyhosting]()
-### [HTB Don't Overreact]()
 ### [HTB Manager]()
 ### [HTB Precious]()
-### [HTB Racecar]()
 ### [HTB Sau]()
 ### [HTB Clicker]()
 ### [HTB Appsanity]()
+
+## Retired challenges
+### [HTB Don't Overreact]()
+### [HTB Racecar]()
