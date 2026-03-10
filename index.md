@@ -5,7 +5,7 @@ title: Home
 
 {% include header.html %}
 
-# Welcome to My Cybersecurity Portfolio
+# Welcome to My Portfolio
 
 I am a cybersecurity researcher focused on **OSINT and digital investigation**, building hands-on skills through Hack The Box labs while working on independent projects.  
 
