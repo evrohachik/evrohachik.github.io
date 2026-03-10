@@ -14,11 +14,11 @@ title: Home
 ### [HTB Sau]()
 ### [HTB Clicker]()
 ### [HTB Appsanity]()
-
+---
 ## Retired challenges
 ### [HTB Don't Overreact]()
 ### [HTB Racecar]()
-
+---
 ## Active challenges (Educational version request)
 ### [HTB CubeMadness1](mailto:evrohachik@keemail.me?subject=HTB%20CubeMadness1%20walkthrough%20access%20request)
 ### [HTB Debugging Interface](mailto:evrohachik@keemail.me?subject=HTB%20Debugging%20Interface%20walkthrough%20access%20request)
