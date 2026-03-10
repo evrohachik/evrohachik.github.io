@@ -11,7 +11,7 @@ title: Home
 ### [HTB Cozyhosting](https://archive.org/details/hack-the-box-htb-cozyhosting-quick-walkthrough-wi)
 ### [HTB Manager](https://archive.org/details/hack-the-box-htb-manager-quick-walkthrough-w-o-su)
 ### [HTB Precious](https://archive.org/details/hack-the-box-htb-precious-quick-walkthrough-with)
-### [HTB Sau]()
+### [HTB Sau](https://archive.org/details/hack-the-box-htb-sau-quick-walkthrough)
 ### [HTB Clicker]()
 ### [HTB Appsanity]()
 ---
