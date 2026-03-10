@@ -12,7 +12,6 @@ title: Home
 ### [HTB Manager](https://archive.org/details/hack-the-box-htb-manager-quick-walkthrough-w-o-su)
 ### [HTB Precious](https://archive.org/details/hack-the-box-htb-precious-quick-walkthrough-with)
 ### [HTB Sau](https://archive.org/details/hack-the-box-htb-sau-quick-walkthrough)
-### [HTB Clicker](https://archive.org/details/hackthebox-clicker-001-hackthebox-clicker)
 ### [HTB Appsanity](https://archive.org/details/htb-appsanity)
 ---
 ## Retired challenges
