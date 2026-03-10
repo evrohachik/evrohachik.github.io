@@ -16,7 +16,7 @@ title: Home
 ### [HTB Appsanity]()
 ---
 ## Retired challenges
-### [HTB Don't Overreact]()
+### [HTB Don't Overreact](https://archive.org/details/hack-the-box-htb-don-t-overreact-quick-walkthroug)
 ### [HTB Racecar]()
 ---
 ## Active challenges (Educational version request)
