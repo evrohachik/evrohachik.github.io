@@ -10,9 +10,9 @@ title: Home
 I am a cybersecurity researcher focused on **OSINT and digital investigation**, building hands-on skills through Hack The Box labs while working on independent projects.  
 
 **Contact & Profiles**:  
-- [LinkedIn](https://www.linkedin.com/in/aleksandr-cheverdak/)  
-- [Hack The Box](https://app.hackthebox.com/public/users/1387954)  
+- [LinkedIn](https://www.linkedin.com/in/aleksandr-cheverdak/)   
 - [Medium](https://medium.com/@evrohachik)
+- [Hack The Box](https://app.hackthebox.com/public/users/1387954) 
 - Email: evrohachik@keemail.me  
 
 ---
