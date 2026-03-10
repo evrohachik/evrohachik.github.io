@@ -25,7 +25,7 @@ The distance between our apartments was roughly **60 meters**.
 
 To make it work we bought:
 
-- a [**TCP/IP book for beginners**](../images/674dfdfc443d9c5fb868c7ba_9780470450604.jpeg)
+![**TCP/IP book for beginners**](../images/674dfdfc443d9c5fb868c7ba_9780470450604.jpeg)
 - **60 meters of Ethernet cable**
 - **2 network cards**
 
@@ -41,6 +41,7 @@ Once the cable was installed we configured the network manually.
 IP: 192.168.1.*
 Subnet mask: 255.255.255.0
 Default getaway 192.168.1.1
+![Windows XP TCP/IP](../images/4_03.jpg)
 
 After installing the drivers and configuring the addresses, the connection worked.
 
