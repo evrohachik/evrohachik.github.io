@@ -17,7 +17,7 @@ title: Home
 ---
 ## Retired challenges
 ### [HTB Don't Overreact](https://archive.org/details/hack-the-box-htb-don-t-overreact-quick-walkthroug)
-### [HTB Racecar]()
+### [HTB Racecar](https://archive.org/details/hack-the-box-htb-racecar-challenge-quick-walkthro)
 ---
 ## Active challenges (Educational version request)
 ### [HTB CubeMadness1](mailto:evrohachik@keemail.me?subject=HTB%20CubeMadness1%20walkthrough%20access%20request)
