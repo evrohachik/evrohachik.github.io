@@ -9,7 +9,7 @@ title: Home
 ## Retired machines
 ### [HTB Beep](https://archive.org/details/hack-the-box-htb-beep-quick-walkthrough-with-subt)
 ### [HTB Cozyhosting](https://archive.org/details/hack-the-box-htb-cozyhosting-quick-walkthrough-wi)
-### [HTB Manager]()
+### [HTB Manager](https://archive.org/details/hack-the-box-htb-manager-quick-walkthrough-w-o-su)
 ### [HTB Precious]()
 ### [HTB Sau]()
 ### [HTB Clicker]()
