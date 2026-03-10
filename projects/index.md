@@ -5,7 +5,7 @@ title: Home
 {% include header.html %}
 
 # Projects
-### [LAN cables at 14](lan.md)
+### [LAN cables at 14](LAN.md)
 
 ---
 
