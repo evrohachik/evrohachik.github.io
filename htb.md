@@ -18,3 +18,9 @@ title: Home
 ## Retired challenges
 ### [HTB Don't Overreact]()
 ### [HTB Racecar]()
+
+## Active challenges (Request only)
+### [HTB CubeMadness1](mailto:evrohachik@keemail.me?subject=HTB%20CubeMadness1%20walkthrough%20access%20request)
+### [HTB Debugging Interface](mailto:evrohachik@keemail.me?subject=HTB%20Debugging%20Interface%20walkthrough%20access%20request)
+### [HTB Survival of the Fittest](mailto:evrohachik@keemail.me?subject=HTB%20Survival%20of%20the%20Fittest%20walkthrough%20access%20request)
+### [HTB The Needle](mailto:evrohachik@keemail.me?subject=HTB%20The%20Needle%20walkthrough%20access%20request)
