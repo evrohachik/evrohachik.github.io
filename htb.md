@@ -5,6 +5,6 @@ title: Home
 
 {% include header.html %}
 
-# Hack The Box Lab Video Walkthrough 
+# Hack The Box Video Walkthrough 
 ## Retired machines and challenges
 ### [HTB Beep]()
