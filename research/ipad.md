@@ -21,15 +21,66 @@ I noticed services such as:
 
 which appeared to provide web-based administration and billing interfaces.
 
-<div style="display: flex; overflow-x: auto; gap: 10px;">
-  <img src="../images/image 1.jpeg" width="300" />
-  <img src="../images/image 2.jpeg" width="300" />
-  <img src="../images/image 3.jpeg" width="300" />
-  <img src="../images/image 4.jpeg" width="300" />
-  <img src="../images/image 5.jpeg" width="300" />
-  <img src="../images/image 6.jpeg" width="300" />
-  <img src="../images/image 7.jpeg" width="300" />
+<style>
+/* Scrollable horizontal gallery */
+.carousel {
+  display: flex;
+  overflow-x: auto;
+  gap: 10px;
+  padding: 10px 0;
+}
+.carousel img {
+  width: 300px;
+  flex-shrink: 0;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: transform 0.2s;
+}
+.carousel img:hover {
+  transform: scale(1.05);
+}
+
+/* Lightbox overlay */
+.lightbox {
+  display: none;
+  position: fixed;
+  z-index: 100;
+  left: 0; top: 0;
+  width: 100%; height: 100%;
+  background-color: rgba(0,0,0,0.85);
+  justify-content: center;
+  align-items: center;
+}
+.lightbox img {
+  max-width: 90%;
+  max-height: 90%;
+  border: 3px solid white;
+  border-radius: 5px;
+}
+.lightbox:target {
+  display: flex;
+}
+</style>
+
+<!-- Horizontal scrollable gallery -->
+<div class="carousel">
+  <a href="#img1"><img src="../images/image 1.jpeg" /></a>
+  <a href="#img2"><img src="../images/image 2.jpeg" /></a>
+  <a href="#img3"><img src="../images/image 3.jpeg" /></a>
+  <a href="#img4"><img src="../images/image 4.jpeg" /></a>
+  <a href="#img5"><img src="../images/image 5.jpeg" /></a>
+  <a href="#img6"><img src="../images/image 6.jpeg" /></a>
+  <a href="#img7"><img src="../images/image 7.jpeg" /></a>
 </div>
+
+<!-- Lightbox previews -->
+<div id="img1" class="lightbox"><a href="#"><img src="../images/image 1.jpeg" /></a></div>
+<div id="img2" class="lightbox"><a href="#"><img src="../images/image 2.jpeg" /></a></div>
+<div id="img3" class="lightbox"><a href="#"><img src="../images/image 3.jpeg" /></a></div>
+<div id="img4" class="lightbox"><a href="#"><img src="../images/image 4.jpeg" /></a></div>
+<div id="img5" class="lightbox"><a href="#"><img src="../images/image 5.jpeg" /></a></div>
+<div id="img6" class="lightbox"><a href="#"><img src="../images/image 6.jpeg" /></a></div>
+<div id="img7" class="lightbox"><a href="#"><img src="../images/image 7.jpeg" /></a></div>
 ---
 
 ## Investigation
