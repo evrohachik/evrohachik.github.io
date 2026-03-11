@@ -22,9 +22,11 @@ I am a cybersecurity researcher focused on **OSINT and digital investigation**, 
 - [Built my first LAN at 14 with a neighbor to play games over 60 meters.](/projects/LAN.md)  
 - [Hacked Wi-Fi networks at 18 to understand security protocols and network behavior.](/research/wifi.md) 
 - [Studied credential leaks and account takeover techniques in 2015](/research/ATO.md)  
-- [Accessed a **router admin panel in a Turkish hotel using only an iPad**](/research/ipad.md)  
-
-
+ 
 ---
+
+## Recent Security Exploration
+
+- [Accessed a **router admin panel in a Turkish hotel using only an iPad**](/research/ipad.md) 
 
 You can explore my work in more detail under [Projects](/projects), [Research](/research), and [Notes](/notes).  
