@@ -58,15 +58,15 @@ This experience gave me insight into:
 
 ---
 
-<p float="left">
-  <img src="..//images/image 1.jpeg" width="200" />
-  <img src="..//images/image 2.jpeg" width="200" />
-  <img src="..//images/image 3.jpeg" width="200" />
-  <img src="..//images/image 4.jpeg" width="200" />
-  <img src="..//images/image 5.jpeg" width="200" />
-  <img src="..//images/image 6.jpeg" width="200" />
-  <img src="..//images/image 7.jpeg" width="200" />
-</p>
+<div style="display: flex; overflow-x: auto; gap: 10px;">
+  <img src="../images/image 1.jpeg" width="200" />
+  <img src="../images/image 2.jpeg" width="200" />
+  <img src="../images/image 3.jpeg" width="200" />
+  <img src="../images/image 4.jpeg" width="200" />
+  <img src="../images/image 5.jpeg" width="200" />
+  <img src="../images/image 6.jpeg" width="200" />
+  <img src="../images/image 7.jpeg" width="200" />
+</div>
 
 This small hands-on experience strengthened my interest in **network security, Wi-Fi systems, and digital investigation**, which I continue to develop through labs on Hack The Box and independent research projects.
 
