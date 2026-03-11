@@ -6,14 +6,14 @@ title: Home
 
 # Learning
 
-<object data="../files/" type="application/pdf" width="100%" height="600px">
+<object data="../files/HTB Academy Student Transcript.pdf " type="application/pdf" width="100%" height="600px">
   <p>Your browser does not support PDFs.
-     <a href="../files/myfile.pdf">Download the PDF</a>.
+     <a href="../files/HTB Academy Student Transcript.pdf">Download the PDF</a>.
   </p>
 </object>
 
 <iframe src="../files/myfile.pdf" width="100%" height="600px">
-  <p>PDF preview not available. <a href="../files/myfile.pdf">Download</a></p>
+  <p>PDF preview not available. <a href="../files/HTB Academy Student Transcript.pdf">Download</a></p>
 </iframe>
 
 
