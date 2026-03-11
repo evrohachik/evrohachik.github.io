@@ -4,7 +4,7 @@ title: Exploring a Hotel Wi-Fi Router (Turkey, Summer 2023)
 ---
 {% include header.html %}
 
-# Exploring a Hotel Wi-Fi Router (Turkey, Summer 2023)
+# Exploring a Hotel Wi-Fi Router (2023)
 
 During a summer trip to Turkey with my mother, I had some free time while staying in a hotel.  
 Bored and curious about network security, I decided to explore how hotel Wi-Fi systems were configured.

@@ -7,7 +7,7 @@ title: Home
 # Research
 
 #### [Hacked first Wi-Fi at 18 (and more later) (2007–2016)](wifi.md)
-#### [Router admin panel in Turkish hotel using only iPad (2023)](ipad.md)
+#### [Exploring a Hotel Wi-Fi Router (2023)](ipad.md)
 ---
 ### Account Takeover
 #### [Discovering the Account Takeover Economy (2015)](ATO.md)
