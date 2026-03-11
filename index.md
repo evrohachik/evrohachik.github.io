@@ -17,7 +17,7 @@ I am a cybersecurity researcher focused on **OSINT and digital investigation**, 
 
 ---
 
-## Early Security Exploration
+## Early Exploration
 
 - [Built my first LAN at 14 with a neighbor to play games over 60 meters.](/projects/LAN.md)  
 - [Hacked Wi-Fi networks at 18 to understand security protocols and network behavior.](/research/wifi.md) 
@@ -25,7 +25,7 @@ I am a cybersecurity researcher focused on **OSINT and digital investigation**, 
  
 ---
 
-## Recent Security Exploration
+## Recent Exploration
 
 - [Accessed a **router admin panel in a Turkish hotel using only an iPad**](/research/ipad.md) 
 
