@@ -12,7 +12,7 @@ title: Home
   </p>
 </object>
 
-<iframe src="../files/myfile.pdf" width="100%" height="600px">
+<iframe src="../files/HTB Academy Student Transcript.pdf" width="100%" height="600px">
   <p>PDF preview not available. <a href="../files/HTB Academy Student Transcript.pdf">Download</a></p>
 </iframe>
 
