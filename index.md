@@ -21,7 +21,7 @@ I am a cybersecurity researcher focused on **OSINT and digital investigation**, 
 
 - [Built my first LAN at 14 with a neighbor to play games over 60 meters.](/projects/LAN.md)  
 - [Hacked Wi-Fi networks to understand security protocols and network behavior.](/research/wifi.md) 
-- [Gained access to **two online bank accounts** via misconfigurations](/research/bank.md)  
+- [Studied credential leaks and account takeover techniques](/research/bank.md)  
 - [Accessed a **router admin panel in a Turkish hotel using only an iPad**](/research/ipad.md)  
 
 
