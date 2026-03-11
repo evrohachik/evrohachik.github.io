@@ -109,3 +109,7 @@ But building that first network taught me something important:
 That small DIY LAN was my first real experience with **computer networking**.
 
 Looking back, it was the beginning of my interest in **systems, networks, and security**.
+
+---
+
+You can explore my work in more detail under [Projects](/projects), [Research](/research), and [Notes](/notes). 

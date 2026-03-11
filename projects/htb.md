@@ -23,3 +23,7 @@ title: Home
 ### [HTB Debugging Interface](mailto:evrohachik@keemail.me?subject=HTB%20Debugging%20Interface%20walkthrough%20access%20request)
 ### [HTB Survival of the Fittest](mailto:evrohachik@keemail.me?subject=HTB%20Survival%20of%20the%20Fittest%20walkthrough%20access%20request)
 ### [HTB The Needle](mailto:evrohachik@keemail.me?subject=HTB%20The%20Needle%20walkthrough%20access%20request)
+
+---
+
+You can explore my work in more detail under [Projects](/projects), [Research](/research), and [Notes](/notes). 

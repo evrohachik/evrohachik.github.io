@@ -152,3 +152,7 @@ Not through textbooks or courses — but through curiosity, experimentation, and
 Wifislax, forums, and real networks around me were basically my first lab environment.
 
 Looking back now, that period probably shaped my interest in **systems, networks, and how security actually breaks in practice**.
+
+---
+
+You can explore my work in more detail under [Projects](/projects), [Research](/research), and [Notes](/notes). 
