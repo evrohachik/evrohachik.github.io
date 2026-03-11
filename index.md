@@ -17,10 +17,10 @@ I am a cybersecurity researcher focused on **OSINT and digital investigation**, 
 
 ---
 
-## Selected Experiences
+## Early Security Exploration
 
-- [Built my first **LAN cables at 14**](/projects/LAN.md)  
-- [Hacked my first **Wi-Fi at 18**, and more later](/research/wifi.md) 
+- [Built my first LAN at 14 with a neighbor to play games over 60 meters.](/projects/LAN.md)  
+- [Hacked Wi-Fi networks to understand security protocols and network behavior.](/research/wifi.md) 
 - [Gained access to **two online bank accounts** via misconfigurations](/research/bank.md)  
 - [Accessed a **router admin panel in a Turkish hotel using only an iPad**](/research/ipad.md)  
 
