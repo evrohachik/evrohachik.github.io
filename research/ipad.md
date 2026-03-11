@@ -59,13 +59,13 @@ This experience gave me insight into:
 ---
 
 <p float="left">
-  <img src="image1.jpg" width="200" />
-  <img src="image2.jpg" width="200" />
-  <img src="image3.jpg" width="200" />
-  <img src="image4.jpg" width="200" />
-  <img src="image5.jpg" width="200" />
-  <img src="image6.jpg" width="200" />
-  <img src="image7.jpg" width="200" />
+  <img src="..//images/image1.jpg" width="200" />
+  <img src="..//images/image2.jpg" width="200" />
+  <img src="..//images/image3.jpg" width="200" />
+  <img src="..//images/image4.jpg" width="200" />
+  <img src="..//images/image5.jpg" width="200" />
+  <img src="..//images/image6.jpg" width="200" />
+  <img src="..//images/image7.jpg" width="200" />
 </p>
 
 This small hands-on experience strengthened my interest in **network security, Wi-Fi systems, and digital investigation**, which I continue to develop through labs on Hack The Box and independent research projects.
