@@ -12,7 +12,8 @@ I am a cybersecurity researcher focused on **OSINT and digital investigation**, 
 **Contact & Profiles**:  
 - [LinkedIn](https://www.linkedin.com/in/aleksandr-cheverdak/)   
 - [Medium](https://medium.com/@evrohachik)
-- [Hack The Box](https://app.hackthebox.com/public/users/1387954) 
+- [Hack The Box Profile](https://app.hackthebox.com/public/users/1387954) 
+- [Hack The Box Student Transcript](../files/HTB Academy Student Transcript.pdf)
 - Email: evrohachik@keemail.me  
 
 ---
