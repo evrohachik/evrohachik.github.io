@@ -6,7 +6,7 @@ title: Home
 
 # Learning
 
-<object data="../files/HTB Academy Student Transcript.pdf " type="application/pdf" width="100%" height="600px">
+<object data="../files/HTB Academy Student Transcript.pdf" type="application/pdf" width="100%" height="600px">
   <p>Your browser does not support PDFs.
      <a href="../files/HTB Academy Student Transcript.pdf">Download the PDF</a>.
   </p>
