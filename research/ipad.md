@@ -66,23 +66,23 @@ which appeared to provide web-based administration and billing interfaces.
 
 <!-- Horizontal scrollable gallery -->
 <div class="carousel">
-  <a href="#img1"><img src="../images/image-1.jpeg" style="width:300px;" /></a>
-  <a href="#img2"><img src="../images/image-2.jpeg" style="width:300px;" /></a>
-  <a href="#img3"><img src="../images/image-3.jpeg" style="width:300px;" /></a>
-  <a href="#img4"><img src="../images/image-4.jpeg" style="width:300px;" /></a>
-  <a href="#img5"><img src="../images/image-5.jpeg" style="width:300px;" /></a>
-  <a href="#img6"><img src="../images/image-6.jpeg" style="width:300px;" /></a>
-  <a href="#img7"><img src="../images/image-7.jpeg" style="width:300px;" /></a>
+  <a href="#img1"><img src="../images/image 1.jpeg" style="width:300px;" /></a>
+  <a href="#img2"><img src="../images/image 2.jpeg" style="width:300px;" /></a>
+  <a href="#img3"><img src="../images/image 3.jpeg" style="width:300px;" /></a>
+  <a href="#img4"><img src="../images/image 4.jpeg" style="width:300px;" /></a>
+  <a href="#img5"><img src="../images/image 5.jpeg" style="width:300px;" /></a>
+  <a href="#img6"><img src="../images/image 6.jpeg" style="width:300px;" /></a>
+  <a href="#img7"><img src="../images/image 7.jpeg" style="width:300px;" /></a>
 </div>
 
 <!-- Lightbox previews -->
-<div id="img1" class="lightbox"><a href="#"><img src="../images/image-1.jpeg" /></a></div>
-<div id="img2" class="lightbox"><a href="#"><img src="../images/image-2.jpeg" /></a></div>
-<div id="img3" class="lightbox"><a href="#"><img src="../images/image-3.jpeg" /></a></div>
-<div id="img4" class="lightbox"><a href="#"><img src="../images/image-4.jpeg" /></a></div>
-<div id="img5" class="lightbox"><a href="#"><img src="../images/image-5.jpeg" /></a></div>
-<div id="img6" class="lightbox"><a href="#"><img src="../images/image-6.jpeg" /></a></div>
-<div id="img7" class="lightbox"><a href="#"><img src="../images/image-7.jpeg" /></a></div>
+<div id="img1" class="lightbox"><a href="#"><img src="../images/image 1.jpeg" /></a></div>
+<div id="img2" class="lightbox"><a href="#"><img src="../images/image 2.jpeg" /></a></div>
+<div id="img3" class="lightbox"><a href="#"><img src="../images/image 3.jpeg" /></a></div>
+<div id="img4" class="lightbox"><a href="#"><img src="../images/image 4.jpeg" /></a></div>
+<div id="img5" class="lightbox"><a href="#"><img src="../images/image 5.jpeg" /></a></div>
+<div id="img6" class="lightbox"><a href="#"><img src="../images/image 6.jpeg" /></a></div>
+<div id="img7" class="lightbox"><a href="#"><img src="../images/image 7.jpeg" /></a></div>
 ---
 
 ## Investigation
