@@ -3,7 +3,6 @@ layout: default
 title: Discovering the Account Takeover Economy (2015)
 ---
 {% include header.html %}
----
 
 # Discovering the Account Takeover Economy (2015)
 
