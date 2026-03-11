@@ -59,6 +59,7 @@ which appeared to provide web-based administration and billing interfaces.
   border-radius: 5px;
   box-shadow: 0 0 20px black;
 }
+
 .lightbox:target {
   display: flex;
 }
