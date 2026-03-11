@@ -4,7 +4,7 @@ title: WiFi Years – Learning Wireless the Hard Way (2007–2016)
 ---
 {% include header.html %}
 
-# WiFi Years – Learning Wireless the Hard Way
+# WiFi Years – Learning Wireless the Hard Way (2007–2016)
 
 ## Spain, 2007
 

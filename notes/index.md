@@ -15,3 +15,7 @@ Quick notes, references, and ideas related to cybersecurity and investigation.
 
 ### Observational Notes
 Short personal notes or reflections from labs, experiments, or research sessions.
+
+---
+
+You can explore my work in more detail under [Projects](/projects), [Research](/research), and [Notes](/notes).  

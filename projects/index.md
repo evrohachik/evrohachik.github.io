@@ -14,3 +14,4 @@ title: Home
 
 ---
 
+You can explore my work in more detail under [Projects](/projects), [Research](/research), and [Notes](/notes).  
