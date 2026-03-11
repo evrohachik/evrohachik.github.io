@@ -5,7 +5,7 @@ title: Home
 
 {% include header.html %}
 
-# Hack The Box Video Walkthrough 
+# Hack The Box Video Walkthrough (2023-2024)
 ## Retired machines
 ### [HTB Beep](https://archive.org/details/hack-the-box-htb-beep-quick-walkthrough-with-subt)
 ### [HTB Cozyhosting](https://archive.org/details/hack-the-box-htb-cozyhosting-quick-walkthrough-wi)
