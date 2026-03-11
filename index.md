@@ -29,4 +29,6 @@ I am a cybersecurity researcher focused on **OSINT and digital investigation**, 
 
 - [Accessed a **router admin panel in a Turkish hotel using only an iPad**](/research/ipad.md) 
 
+---
+
 You can explore my work in more detail under [Projects](/projects), [Research](/research), and [Notes](/notes).  
