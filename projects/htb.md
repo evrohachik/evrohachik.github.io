@@ -6,6 +6,13 @@ title: Home
 {% include header.html %}
 
 # Hack The Box Video Walkthrough (2023-2024)
+
+This page contains walkthroughs and insights from my hands‑on practice on **Hack The Box** — a practical cybersecurity training platform.  
+
+The goal of these videos is not just to show a solution, but to demonstrate **how I think and investigate** during hands‑on labs.
+
+Whether you're learning alongside me or reviewing my process, these walkthroughs reflect my practical approach to real‑world security challenges.
+
 ## Retired machines
 ### [HTB Beep](https://archive.org/details/hack-the-box-htb-beep-quick-walkthrough-with-subt)
 ### [HTB Cozyhosting](https://archive.org/details/hack-the-box-htb-cozyhosting-quick-walkthrough-wi)
