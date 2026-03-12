@@ -25,7 +25,9 @@ Quick notes, references, and ideas related to cybersecurity and investigation.
 #### [Automating SQLi Detection and Exploitation with SQLMap](https://evrohachik.medium.com/automating-sqli-detection-and-exploitation-with-sqlmap-2d5395d179cf)
 #### [Network Traffic Analysis](https://evrohachik.medium.com/network-traffic-analysis-nta-28ca0384f090)
 #### [Password Cracking with Hashcat](https://evrohachik.medium.com/unlocking-security-a-look-at-password-cracking-with-hashcat-83d1151d730f)
-
+#### [Discovering Hidden Web Assets with Ffuf](https://evrohachik.medium.com/discovering-hidden-web-assets-with-ffuf-c665b38475ce)
+#### [Understanding Brute Force Attacks](https://evrohachik.medium.com/understanding-brute-force-attacks-the-unseen-battle-in-cybersecurity-745df2af1b1b)
+#### [Mastering Network Enumeration with Nmap](https://evrohachik.medium.com/mastering-network-enumeration-with-nmap-a-comprehensive-guide-1136c73abbef)
 
 ---
 
