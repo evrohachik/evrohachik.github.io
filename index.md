@@ -19,7 +19,7 @@ I am a cybersecurity researcher focused on **OSINT and digital investigation**, 
 ---
 
 ## Achievements
-- [2023 ThreatModeler CTF – Ranked 15th out of 309 participants (Top 5%)]("../images/Screenshot 2026-03-12 at 2.46.50 p.m..png")
+- [2023 ThreatModeler CTF – Ranked 15th out of 309 participants (Top 5%)](../images/Screenshot%202026-03-12%20at%202.46.50%20p.m..png)
 - [2025 Holmes CTF – Ranked 981st out of 11,341 participants (Top 9%; 7,085 teams)](../files/Certificate-evrohachik.pdf)
 
 ---
