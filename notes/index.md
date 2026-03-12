@@ -21,10 +21,10 @@ Quick notes, references, and ideas related to cybersecurity and investigation.
 ---
 
 ### Observational Notes
-Short personal notes or reflections from labs, experiments, or research sessions.
 #### [Essential security features in Linux](https://evrohachik.medium.com/linux-security-a-beginners-guide-to-hardening-your-system-791b6cbcf249)
 #### [Web Proxies](https://evrohachik.medium.com/web-proxies-burp-suite-and-zap-d8be281b3611)
 #### [Networking Concepts for Penetration Testers](https://evrohachik.medium.com/overview-of-networking-concepts-for-penetration-testers-8b9261d14db0)
+#### [Automating SQLi Detection and Exploitation with SQLMap](https://evrohachik.medium.com/automating-sqli-detection-and-exploitation-with-sqlmap-2d5395d179cf)
 ---
 
 You can explore my work in more detail under [Projects](/projects), [Research](/research), and [Notes](/notes).  
