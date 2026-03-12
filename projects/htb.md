@@ -7,7 +7,7 @@ title: Home
 
 # Hack The Box Video Walkthrough (2023-2024)
 
-This page contains walkthroughs and insights from my hands‑on practice on **Hack The Box** — a practical cybersecurity training platform.  
+This page contains walkthroughs and insights from my hands‑on practice on [**Hack The Box**](https://app.hackthebox.com/public/users/1387954) — a practical cybersecurity training platform.  
 
 The goal of these videos is not just to show a solution, but to demonstrate **how I think and investigate** during hands‑on labs.
 
