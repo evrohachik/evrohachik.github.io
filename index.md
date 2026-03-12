@@ -27,8 +27,6 @@ I am a cybersecurity researcher focused on **OSINT and digital investigation**, 
 ### Early Exploration
 
 - [Built my first LAN at 14 with a neighbor to play games over 60 meters (2002)](/projects/LAN.md)  
-- [Hacked Wi-Fi networks at 18 to understand security protocols and network behavior (2006)](/research/wifi.md) 
-- [Studied credential leaks and account takeover techniques (2015)](/research/ATO.md)  
 
 ---
 
