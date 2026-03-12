@@ -13,8 +13,6 @@ Quick notes, references, and ideas related to cybersecurity and investigation.
 #### [Understanding Web Proxies](https://evrohachik.medium.com/understanding-web-proxies-b0868397d2f6)
 #### [Proxy setup](https://evrohachik.medium.com/proxy-setup-3555585ae6b5)
 #### [Setting Up Burp Suite and ZAP](https://evrohachik.medium.com/setting-up-burp-suite-and-zap-cec12768e06f)
-#### [Network Traffic Analysis](https://evrohachik.medium.com/network-traffic-analysis-nta-28ca0384f090)
-#### [Password Cracking with Hashcat](https://evrohachik.medium.com/unlocking-security-a-look-at-password-cracking-with-hashcat-83d1151d730f)
 #### [Intercepting Requests](https://evrohachik.medium.com/intercepting-requests-acde8d589fc2)
 
 
@@ -25,6 +23,10 @@ Quick notes, references, and ideas related to cybersecurity and investigation.
 #### [Web Proxies](https://evrohachik.medium.com/web-proxies-burp-suite-and-zap-d8be281b3611)
 #### [Networking Concepts for Penetration Testers](https://evrohachik.medium.com/overview-of-networking-concepts-for-penetration-testers-8b9261d14db0)
 #### [Automating SQLi Detection and Exploitation with SQLMap](https://evrohachik.medium.com/automating-sqli-detection-and-exploitation-with-sqlmap-2d5395d179cf)
+#### [Network Traffic Analysis](https://evrohachik.medium.com/network-traffic-analysis-nta-28ca0384f090)
+#### [Password Cracking with Hashcat](https://evrohachik.medium.com/unlocking-security-a-look-at-password-cracking-with-hashcat-83d1151d730f)
+
+
 ---
 
 You can explore my work in more detail under [Projects](/projects), [Research](/research), and [Notes](/notes).  
