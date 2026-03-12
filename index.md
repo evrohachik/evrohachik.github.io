@@ -19,16 +19,16 @@ I am a cybersecurity researcher focused on **OSINT and digital investigation**, 
 ---
 
 ### Achievements
-- [2023 ThreatModeler CTF – Ranked 15th out of 309 participants (Top 5%)](../images/Screenshot_2026-03-12_at_2.46.50_p.m..png)
-- [2025 Holmes CTF – Ranked 981st out of 11,341 participants (Top 9%; 7,085 teams)](../files/Certificate-evrohachik.pdf)
+- [2023 - ThreatModeler CTF – Ranked 15th out of 309 participants (Top 5%)](../images/Screenshot_2026-03-12_at_2.46.50_p.m..png)
+- [2025 - Holmes CTF – Ranked 981st out of 11,341 participants (Top 9%; 7,085 teams)](../files/Certificate-evrohachik.pdf)
 
 ---
 
 ### Early Exploration
 
-- [2002 Built my first LAN at 14 with a neighbor to play games over 60 meters.](/projects/LAN.md)  
-- [ 2006 Hacked Wi-Fi networks at 18 to understand security protocols and network behavior.](/research/wifi.md) 
-- [2015 Studied credential leaks and account takeover techniques.](/research/ATO.md)  
+- [2002 - Built my first LAN at 14 with a neighbor to play games over 60 meters.](/projects/LAN.md)  
+- [ 2006 - Hacked Wi-Fi networks at 18 to understand security protocols and network behavior.](/research/wifi.md) 
+- [2015 - Studied credential leaks and account takeover techniques.](/research/ATO.md)  
 
 ---
 
