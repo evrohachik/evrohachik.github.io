@@ -6,9 +6,10 @@ title: Home
 
 # Notes
 
-Quick notes, references, and ideas related to cybersecurity and investigation.
+A collection of short, beginner-friendly posts explaining cybersecurity concepts and practical web security techniques in simple language
 
 ### Explaining in the simplest way possible
+
 #### [Account Takeover fraud](https://evrohachik.medium.com/account-takeover-ato-fraud-explained-simply-99b4e14aacfe)
 #### [Understanding Web Proxies](https://evrohachik.medium.com/understanding-web-proxies-b0868397d2f6)
 #### [Proxy setup](https://evrohachik.medium.com/proxy-setup-3555585ae6b5)

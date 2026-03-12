@@ -32,4 +32,12 @@ I am a cybersecurity researcher focused on **OSINT and digital investigation**, 
 
 ---
 
+## Cybersecurity Explained Simply
+- [Account Takeover fraud](https://evrohachik.medium.com/account-takeover-ato-fraud-explained-simply-99b4e14aacfe)
+- [Understanding Web Proxies](https://evrohachik.medium.com/understanding-web-proxies-b0868397d2f6)
+- [Proxy setup](https://evrohachik.medium.com/proxy-setup-3555585ae6b5)
+- [Setting Up Burp Suite and ZAP](https://evrohachik.medium.com/setting-up-burp-suite-and-zap-cec12768e06f)
+- [Intercepting Requests](https://evrohachik.medium.com/intercepting-requests-acde8d589fc2)
+
+
 You can explore my work in more detail under [Projects](/projects), [Research](/research), and [Notes](/notes).  
