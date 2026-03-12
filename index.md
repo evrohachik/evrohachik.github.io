@@ -18,7 +18,7 @@ I am a cybersecurity researcher focused on **OSINT and digital investigation**, 
 
 ---
 
-## Achievments
+## Achievements
 - [2023 CTF Challenge – Ranked 15th out of 309 participants (Top 5%)]('../images/Screenshot 2026-03-12 at 2.46.50 p.m..png')
 - [2025 CTF Challenge – Ranked 981st out of 11,341 participants (Top 9%; 7,085 teams)](../files/Certificate-evrohachik.pdf)
 
