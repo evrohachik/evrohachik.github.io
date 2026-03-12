@@ -18,6 +18,10 @@ I am a cybersecurity researcher focused on **OSINT and digital investigation**, 
 
 ---
 
+## Achievments
+- [2023 CTF Challenge – Ranked 15th out of 309 participants (Top 5%)]()
+- [2025 CTF Challenge – Ranked 981st out of 11,341 participants (Top 9%; 7,085 teams)]()
+
 ## Early Exploration
 
 - [Built my first LAN at 14 with a neighbor to play games over 60 meters.](/projects/LAN.md)  
@@ -39,5 +43,6 @@ I am a cybersecurity researcher focused on **OSINT and digital investigation**, 
 - [Setting Up Burp Suite and ZAP](https://evrohachik.medium.com/setting-up-burp-suite-and-zap-cec12768e06f)
 - [Intercepting Requests](https://evrohachik.medium.com/intercepting-requests-acde8d589fc2)
 
+---
 
 You can explore my work in more detail under [Projects](/projects), [Research](/research), and [Notes](/notes).  
